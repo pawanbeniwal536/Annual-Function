@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image: url("https://sanskriti.edu.in/blog/wp-content/uploads/2021/07/building-Image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+center h3{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.container p{
+    color: yellow;
+}
+
+.require-field{
+    color: red;
+}
+.submit-btn{
+    width:80px;
+    height:35px;
+   background-color: blue;
+   border-radius: 8px;
+   color:white;
+   margin-top: 10px;
+
+ 
+}
+.register-student{
+    height: 30px;
+
+}
+.registered-student{
+
+    background-color: blue;
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    border-radius: 10px;
+    align-items: center;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding-left:10px;
+    padding-right: 10px;
+}
+.contain{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
